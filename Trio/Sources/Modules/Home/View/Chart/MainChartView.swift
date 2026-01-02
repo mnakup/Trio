@@ -202,7 +202,7 @@ extension MainChartView {
             .chartLegend(.hidden)
             .chartForegroundStyleScale([
                 "iob": Color.insulin,
-                "uam": Color.yellow,
+                "uam": Color.lemon,
                 "zt": Color.zt,
                 "cob": Color.orange
             ])
